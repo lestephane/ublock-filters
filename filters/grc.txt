@@ -1,0 +1,3 @@
+! Block "Sign in with Google" iframe in top right corner of websites (source: Security Now podcast)
+||accounts.google.com/gsi/iframe
+
