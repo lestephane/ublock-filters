@@ -1,0 +1,4 @@
+
+! Skip onelink.me on Revolut Busines
+||revolut-business.onelink.me/*^af_web_dp=https%3A%2F%2Fbusiness.revolut.com%2Fsignin$doc,urlskip=?af_web_dp
+
